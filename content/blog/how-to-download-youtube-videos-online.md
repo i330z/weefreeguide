@@ -1,21 +1,20 @@
 ---
 title: How To Download Youtube Videos Online?
-description: 'Here in this guide we will show you how to download youtube videos online and save it in your computer.'
+description: 'In this guide we will show you how to download youtube videos online and save it to your computer.'
 featured:
     img: "feature1.jpg"
     alt: "Download youtube videos online"
 ---
 
 
+[Youtube](https://www.youtube.com) is the most popular video hosting site on the Internet. However, it does have some limitations when it comes to downloading the content, you cannot download the video in your computer. However, it does let you download the video for a week in the youtube App but it is only for viewing purposes.
 
-
-[Youtube](https://www.youtube.com) is the most popular video hosting site on the Internet. However, it do have some limitations when it comes to downloading the content. You can online download some videos, it the app itself, which is deleted after a week or so. 
 
 ## Online Youtube Downloader
-Here we will use the an Online youtube video downloader, that will provide a fastest way to download any Youtube Videos in Mp4, SQ, HD and Full HD videos.
-Just download it and save it to your Pc.
+Here we will use an online youtube video downloader. It is one of the fastest ways to download any Youtube video in Mp4, SQ, HD and Full HD videos. It makes it very easy to download any video you like to your computer for offline use.
+.
 
-Here in this guide we will show you how to download any youtube videos online and save it in your computer. 
+Here in this guide we will show you how to download any youtube video online and save it to your computer. 
 
 <!-- <div class="p-4 mb-4" style="background:pink">
   This is HTML inside markdown that has a class of note
@@ -29,22 +28,20 @@ To download any youtube videos , you need to follow the steps given below:
 <featured-img image="1.png" alt="Online youtube video download"></featured-img>
 
 
-
 **Step 2:**  **Copy** the Link on the Address Bar.
 
 <featured-img image="2.png" alt="Online youtube video downloader"></featured-img>
 
 
-**Step 3:** Goto the [SaveFrom.net](https://en.savefrom.net/1-youtube-video-downloader-5/) and in the **paste** the Youtube video link.
+**Step 3:** Go to [SaveFrom.net](https://en.savefrom.net/1-youtube-video-downloader-5/) and **paste** the Youtube video link in the provided textbox.
 
-**Step 4:** Press the **Download** Button next to It.
+**Step 4:** Press the **Download** button next to It.
 
-Wait for few moment till it fetch the video from youtube and provide you with the Download Links.
+Wait for a few moments till it fetches the video from youtube and provides you with available download options
 
 <featured-img image="3.png" alt="youtube video downloader"></featured-img>
 
-
-Now you can downnload the Video in any format it provides.
+Now, you can download the video by clicking on any of the provided formats as per your requirements.
 <!-- <info-box>
   <template #info-box>
     This is a vue component inside markdown using slots
