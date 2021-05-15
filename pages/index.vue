@@ -9,9 +9,9 @@
             </div>
             <div class="card-text">
               <h2>{{ article.title }}</h2>
-              <p>{{ article.description }}</p>
+              <!-- <p>{{ article.description }}</p> -->
               <n-link :to="article.slug">
-                <button class="btn-default mt-3">VIEW POST</button>
+                <button class="btn-default mt-3">READ POST</button>
               </n-link> 
             </div>
           </div>

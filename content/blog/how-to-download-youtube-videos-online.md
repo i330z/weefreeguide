@@ -2,7 +2,7 @@
 title: How To Download Youtube Videos Online?
 description: 'Here in this guide we will show you how to download youtube videos online and save it in your computer.'
 featured:
-    img: "1.png"
+    img: "feature1.jpg"
     alt: "Download youtube videos online"
 ---
 

@@ -2,7 +2,7 @@
 title: How to Convert Youtube Video to Mp3
 description: 'Here we will use the an Online youtube video to Mp3(audio) Converter, that will covert your youtube video into Mp3(audio) files, so that you can use the audio in your own youtube or other projects. '
 featured:
-    img: "4.png"
+    img: "feature2.jpg"
     alt: "this is a featured image"
 ---
 
