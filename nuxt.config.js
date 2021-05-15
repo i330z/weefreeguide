@@ -67,8 +67,12 @@ export default {
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {
-  },
-
+  // build: {
+  //   babel: {
+  //     presets(env, [ preset, options ]) {
+  //       return ["module:@babel/plugin-proposal-private-methods", { "loose": true }]
+  //     }
+  //   }
+  // }
   generate: { fallback: '404.html' }
 }
