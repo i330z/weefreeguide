@@ -137,7 +137,7 @@
         {
           hid:"canonical",
           rel: "canonical",
-          href: "https://nuxt-blog-template.com/" + this.article.slug,
+          href: "https://www.weefreeguide.xyz/" + this.article.slug,
         },
       ],
     };

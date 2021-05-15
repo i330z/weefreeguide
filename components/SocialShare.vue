@@ -6,7 +6,7 @@
     :network="network.network"
     :key="network.network"
     :style="{backgroundColor: network.color}"
-    :url="`this.url/${slug}`"
+    :url="`https://www.weefreeguide.xyz/${slug}`"
     :title="title"
     :description="description"
     :quote="sharing.quote"
