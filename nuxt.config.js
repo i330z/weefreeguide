@@ -13,7 +13,8 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'this is the description of the website' }
+      { hid: 'description', name: 'description', content: 'this is the description of the website' },
+      { name:"google-site-verification", content:"k_lJL944Jrj2tEPC5_vcC0wXToJNfR4J2nzcCyuGzYE"}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
