@@ -108,6 +108,7 @@ export default {
 .card-img{
   width: 100%;
   object-fit: cover;
+  overflow: hidden;
 }
 
 .card{
