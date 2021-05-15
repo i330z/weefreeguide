@@ -5,7 +5,7 @@
         <div class="col-md-4" v-for="article in articles" :key="article.slug">
           <div class="card">
             <div class="card-img">
-              <img :src="require(`@/assets/images/${article.featured.img}`)" :alt="article.featured.alt" class="featured-image" >
+              <img :src="require(`@/assets/images/${article.featured.img}`)" :alt="article.featured.alt" width="100%" class="featured-image" >
             </div>
             <div class="card-text">
               <h2>{{ article.title }}</h2>
@@ -107,13 +107,14 @@ export default {
 
 .card-img{
   width: 100%;
-  object-fit: cover;
+  /* object-fit: cover; */
   overflow: hidden;
 }
 
 .card{
   border: 2px solid var(--primary);
   border-radius: 4px;
+  margin-bottom: 20px;
 }
 
 .card-text{
