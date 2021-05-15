@@ -37,7 +37,10 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     '@aceforth/nuxt-optimized-images',
-    '@/modules/generator'
+    '@/modules/generator',
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-197085723-1'
+    }]
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
