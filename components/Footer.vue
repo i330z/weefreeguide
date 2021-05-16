@@ -6,27 +6,32 @@
                     <div class="col-md-12 text-center">
                         <ul>
                             <li>
-                                <n-link to="/">
+                                <n-link to="/privacy-policy">
                                     Privacy
                                 </n-link>
                             </li>
                             <li>
-                                <n-link to="/">
+                                <n-link to="/disclaimer">
                                     Disclaimer
                                 </n-link>
                             </li>
                             <li>
-                                <n-link to="/">
-                                    Copyright Policy
+                                <n-link to="/terms-and-conditions">
+                                    Terms And Conditions
                                 </n-link>
                             </li>
                             <li>
-                                <n-link to="/">
+                                <n-link to="/dmca">
+                                    DMCA
+                                </n-link>
+                            </li>
+                            <li>
+                                <n-link to="/about-us">
                                     About Us
                                 </n-link>
                             </li>
                             <li>
-                                <n-link to="/">
+                                <n-link to="/contact">
                                     Contact
                                 </n-link>
                             </li>
@@ -36,7 +41,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        @copyright Blogger 2021
+                        @copyright WeeFreeGuide 2021
                     </div>
                 </div>
             </div>
