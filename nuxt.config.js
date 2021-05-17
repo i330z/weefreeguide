@@ -14,7 +14,8 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'this is the description of the website' },
-      { name:"google-site-verification", content:"k_lJL944Jrj2tEPC5_vcC0wXToJNfR4J2nzcCyuGzYE"}
+      { name:"google-site-verification", content:"k_lJL944Jrj2tEPC5_vcC0wXToJNfR4J2nzcCyuGzYE"},
+      { name:"dmca-site-verification", content:"WVFpakR6WlV4aWVBSm1Fb1lZQ2wzWXM1VzB0ZGx4YUF5d3kxRms4Q1JKcz01"}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
