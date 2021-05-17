@@ -41,6 +41,11 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center">
+                        <Dmca />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 text-center">
                         @copyright WeeFreeGuide 2021
                     </div>
                 </div>

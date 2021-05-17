@@ -19,7 +19,8 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+    ],
+    script:[{ src: 'https://images.dmca.com/Badges/DMCABadgeHelper.min.js' }]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
