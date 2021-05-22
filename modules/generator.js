@@ -10,5 +10,6 @@ const generator = function () {
       this.nuxt.options.sitemap.routes = await [...routes]
     })
   }
+
   
   export default generator
