@@ -51,7 +51,8 @@ export default {
     // https://go.nuxtjs.dev/content
     'vue-social-sharing/nuxt',
     '@nuxt/content',
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap',
+    '@nuxtjs/dotenv',
   ],
 
   sitemap: {
@@ -76,5 +77,10 @@ export default {
   //     }
   //   }
   // }
-  generate: { fallback: '404.html' }
+  generate: { fallback: '404.html' },
+
+
+
+
+  
 }

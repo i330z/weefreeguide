@@ -6,12 +6,11 @@
                     <n-link to="/">WeeFreeGuide</n-link>
                 </div>
                 
-                    <!-- <ul>
-                        <li>
-                            Blog
-                        </li>
-                    </ul> -->
-                
+                    <ul>
+                        <n-link to="/download">
+                            Download
+                        </n-link>
+                    </ul>
             </div>
         </nav>
     </div>

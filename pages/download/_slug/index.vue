@@ -38,7 +38,7 @@
 		methods:{
 			showLink(){
 				this.getlink = true
-				console.log('showlink')
+				console.log(process.env.API_KEY)
 				this.countDownTimer()
 				// setTimeout(()=>{
 				// 	this.countDownTimer()
