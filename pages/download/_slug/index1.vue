@@ -12,9 +12,9 @@
 
 
 						<div class="text-center mt-4">
-							<button class="btn-default" v-if="getlink == false" @click="showLink">Get Link</button>
+							<button class="btn-default" v-if="getlink == false" @click="showLink">Download</button>
 							<span v-if="getlink == true && countDown > 0">Wait for {{ countDown }}</span>
-							<a v-show="activelink" class="btn-default" target="_" :href="video_link">Download The Music</a>
+							<a v-show="activelink" target="_" :href="video_link">Download The Music</a>
 						</div>
 					</div>
 				</div>
@@ -53,18 +53,15 @@
                         this.countDownTimer()
                     }, 1000)
                 }
-                else{
-                	this.activelink = true
-                }
             }
 		},
-		// watch:{
-		// 	countDown(){
-		// 		if(this.countDown == 0){
-		// 			this.activelink = true
-		// 		}
-		// 	}
-		// }
+		watch:{
+			countDown(){
+				if(this.countDown == 0){
+					this.activelink = true
+				}
+			}
+		}
 	}
 </script>
 
